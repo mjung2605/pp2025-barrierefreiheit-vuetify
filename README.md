@@ -30,3 +30,5 @@ Meike Jungilligens (Studentin Medieninformatik B.Sc.)
 
 E-Mail: mjungilligens@gmail.com
 
+GitHub: mjung2605
+
