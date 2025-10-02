@@ -27,5 +27,6 @@ bisschen background/ grund für arbeit/ herleitung
 ## Kontaktinformationen der Erstellerin
 
 Meike Jungilligens (Studentin Medieninformatik B.Sc.)
+
 E-Mail: mjungilligens@gmail.com
 
