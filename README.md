@@ -15,11 +15,14 @@ Das meiste davon nur für code repos relevant lol. aber für mich: readme: kurzb
 ## Kurzbeschreibung der Arbeit und des Werks
 (vllt nicht als extra tab sondern einfach unter titel)
 
+// link zu test-repo?
+
 ## Hintergrund des Werks
 bisschen background/ grund für arbeit/ herleitung
 
+
 ## Nutzungskontext
-/ anwendungsbereich der poster bzw nutzungsszenario / erweiterungsmöglichkeit
+/ anwendungsbereich der poster bzw nutzungsszenario / erweiterungsmöglichkeit /// vllt hier schematisches poster noch "einblenden"
 
 ## Kontaktinformationen der Erstellerin
 
