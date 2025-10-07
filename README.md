@@ -10,9 +10,9 @@ Dieses Repository ist der Ablageort der finalen Poster, die im Rahmen des Praxis
 Die Poster visualisieren zentrale Ergebnisse der Analyse von Vuetify hinsichtlich der Barrierefreiheit (gemessen an WCAG 2.1), und bereiten diese praxisorientiert für die Unterstützung von Entwicklungsteams im Vuetify-Umfeld auf.
 Jedes Poster behandelt eines der aus der Analyse hervorgetretenen Problemfelder auf WCAG-Konformitätsstufe AA:
 
-1. Kontrast (Kriterium 1.4.3, 1.4.11)
-2. Fokussichtbarkeit (Kriterium 2.4.6)
-3. Name, Rolle, Wert (Kriterium 4.1.2)
+1. **Kontrast** (Kriterium 1.4.3, 1.4.11)
+2. **Fokussichtbarkeit** (Kriterium 2.4.6)
+3. **Name, Rolle, Wert** (Kriterium 4.1.2)
 
 Ziel ist eine erste Evaluation der Barrierefreiheit komponentenbasierter Frameworks im Vue.js-Umfeld sowie der Praxistransfer dieser Informationen in Form der Poster. So werden bestehende Barrieren kenntlich gemacht und angemessene Überwältigungsstrategien bereitgestellt.
 
