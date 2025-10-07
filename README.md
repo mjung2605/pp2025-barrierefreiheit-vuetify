@@ -1,28 +1,32 @@
 # Barrierefreiheit in Frontend-Frameworks: Eine systematische Evaluierung anhand der WCAG 2.1 am Beispiel von Vuetify
-[Inhalt nach noss:
-Technische Umsetzung
-Wählen Sie geeignete Technologien und Tools für die Entwicklung. Achten Sie auf Best Practices in der Programmierung und Gestaltung. Dokumentieren Sie Ihre Entscheidungen via Architectural Decision Records.
-Beachten Sie diese Bewertungskritieren von Code Repositories.
-Verlinken Sie in Ihrer Ausarbeitung auf das Repository, in dem das Werk verfügbar ist. Stellen Sie sicher, dass das Repository öffentlich zugänglich ist.
-Stellen Sie eine lauffähige Version des Werks bereit, die von anderen getestet und genutzt werden kann.
-Dokumentation
-Erstellen Sie eine aussagekräftige Readme-Datei im Repository. Diese sollte eine Kurzbeschreibung des Werks, Installationsanweisungen, Lizenz, Kontext des Werks, Nutzungshinweise und Kontaktinformationen enthalten.
-Verfassen Sie eine prägnante Benutzerdokumentation, die alle wichtigen Funktionen und Nutzungsszenarien beschreibt. Diese kann auch Screenshots, Tutorials oder Videos enthalten.
-Dokumentieren Sie den Code und die Architektur des Werks, sodass andere Entwickler das Projekt verstehen und weiterentwickeln können.)
-
-Das meiste davon nur für code repos relevant lol. aber für mich: readme: kurzbeschreibung, kontext, nutzungshinweise??? kontaktinformationen. Brauche ich eine BEnutzerdokumentation? eigentlich nicht? vllt poster quali angeben oder aufhäng-szenarien, erweiterungsmöglichkeiten.
-
 ## Kurzbeschreibung der Arbeit und des Werks
-(vllt nicht als extra tab sondern einfach unter titel)
+Dieses Repository ist der Ablageort für die finalen Poster, die im Rahmen des Praxisprojekts mit dem obigen Namen entstanden. Das Projekt wurde an der Technschen Hochschule Köln unter der Betreuung von Christian Noss durchgeführt.
 
-// link zu test-repo?
+Die Poster visualisieren zentrale Ergebnisse einer vorhergegangenen Analyse von Vuetify hinsichtlich der Barrierefreiheit (gemessen an WCAG 2.1), und bereiten diese praxisorientiert für die Unterstützung von Entwicklungsteams im Vuetify-Umfeld auf.
+Jedes Poster behandelt eines der aus der Analyse hervorgetretenen Problemfelder auf WCAG-Konformitätsstufe AA:
+1. Kontrast (Kriterium 1.4.3, 1.4.11)
+2. Fokussichtbarkeit (Kriterium 2.4.6)
+3. Name, Rolle, Wert (Kriterium 4.1.2)
+
+Ziel ist eine erste Evaluation der Barrierefreiheit komponentenbasierter Frameworks im Vue.js-Umfeld sowie der Praxistransfer dieser Informationen in Form der Poster. So werden bestehende Barrieren kenntlich gemacht und angemessene Überwältigungsstrategien bereitgestellt.
 
 ## Hintergrund des Werks
-bisschen background/ grund für arbeit/ herleitung
+Die in den Postern dargestellten Inhalte basieren auf einer Analyse des Frameworks [Vuetify](https://vuetifyjs.com/), in der 17 Standardkomponenten nach den WCAG 2.1 bewertet wurden. Die Bewertungen sind ebenfalls in diesem Repo zu fnden. Die Bewertung reflektiert aktuelle rechtliche Standards des Barrierefreiheitsstärkungsgesetzes (BFSG), welches am 28.06.2025 in Kraft getreten ist und das Einhalten von Barrierefreiheitsstandards für digitale Produkte privater Unternehmen verpflichtet. Es entstammt dem EU-weiten Vorhaben, die Barrierefreiheitsregulierungen der EU-Mitgliedsstaaten zu harmonisieren und einheitliche Standards zu schaffen, die nicht nur den öffentlichen, sondern nun auch den privaten Sektor betreffen.
 
+Die Untersuchung zeigte, dass selbst moderne UI-Frameworks nicht automatisch barrierefreie Komponenten bereitstellen. Weitere Forschung ist notwendig, um ein umfangreiches Bild des Standes von Barrierefreiheit in verschiedenen Frameworks zu schaffen und auf das Verbessern dieser Frameworks hinzuwirken.
 
 ## Nutzungskontext
-/ anwendungsbereich der poster bzw nutzungsszenario / erweiterungsmöglichkeit /// vllt hier schematisches poster noch "einblenden"
+Die Poster sind als Kommunikationsmaterial in Büros von Teams, die Vuetify nutzen, gedacht und bieten einen schnell erfassbaren Überblick über die zu beachtenen Mängel von Vuetify bezüglich Barrierefreiheit. Es ist zu betonen, dass die Poster keine vollständige Evaluation von Vuetify darstellen und durch zukünftige Untersuchungen erweitert werden sollten.
+
+### Poster-Spezifikationen
+- A1, hochkant (auch in A2, A3 oder A4 ausdruckbar)
+- Farbraum: RGB (druckgeeignet)
+- Design an Material Design angelehnt 
+
+### Erweiterungsmöglichkeiten
+- Erweiterung um weitere Problemfelder in Vuetify
+- Erweiterung um Probleme in weiteren komponentenbasierten Frameworks -> Vergleichsmöglichkeit
+- Spezifizierung auf die Anforderung eines bestimmten Teams, z.B. Designer, Entwickler oder Tester
 
 ## Kontaktinformationen der Erstellerin
 
