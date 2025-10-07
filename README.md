@@ -44,7 +44,8 @@ GitHub: [mjung2605](https://github.com/mjung2605)
 
 ## Quellen
 
-[1] [BFSG, 2021](https://bfsg-gesetz.de/)
-[2] [EU-Richtlinie 2019/882, 2019](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882)
+1 [BFSG, 2021](https://bfsg-gesetz.de/)
+
+2 [EU-Richtlinie 2019/882, 2019](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882)
 
 
