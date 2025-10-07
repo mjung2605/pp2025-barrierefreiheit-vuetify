@@ -22,7 +22,7 @@ Die in den Postern dargestellten Inhalte basieren auf einer Analyse des Framewor
 Die Untersuchung zeigte, dass selbst moderne UI-Frameworks nicht automatisch barrierefreie Komponenten bereitstellen. Weitere Forschung ist notwendig, um ein umfangreiches Bild des Standes von Barrierefreiheit in verschiedenen Frameworks zu schaffen und auf das Verbessern dieser Frameworks hinzuwirken.
 
 ## Nutzungskontext
-Die Poster sind als Kommunikationsmaterial in Büros von Teams, die Vuetify nutzen, gedacht und bieten einen schnell erfassbaren Überblick über die zu beachtenen Mängel von Vuetify bezüglich Barrierefreiheit. Es ist zu betonen, dass die Poster keine vollständige Evaluation von Vuetify darstellen und durch zukünftige Untersuchungen erweitert werden sollten.
+Die Poster sind als Kommunikationsmaterial in Büros von Teams, die Vuetify nutzen, gedacht und bieten einen schnell erfassbaren Überblick über die zu beachtenen Mängel von Vuetify bezüglich Barrierefreiheit. Es ist zu betonen, dass die Poster keine vollständige Evaluation von Vuetify darstellen und durch zukünftige Untersuchungen erweitert werden sollten. Dazu wurde eine Template-Version des Posters angehängt, welches die einzelnen Inhaltsblöcke benennt und somit die Grundstruktur darstellt.
 
 ### Poster-Spezifikationen
 - A3, hochkant
