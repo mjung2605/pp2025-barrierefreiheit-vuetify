@@ -17,7 +17,7 @@ Jedes Poster behandelt eines der aus der Analyse hervorgetretenen Problemfelder 
 Ziel ist eine erste Evaluation der Barrierefreiheit komponentenbasierter Frameworks im Vue.js-Umfeld sowie der Praxistransfer dieser Informationen in Form der Poster. So werden bestehende Barrieren kenntlich gemacht und angemessene Überwältigungsstrategien bereitgestellt.
 
 ## Hintergrund des Werks
-Die in den Postern dargestellten Inhalte basieren auf einer Analyse des Frameworks [Vuetify](https://vuetifyjs.com/), in der 17 Standardkomponenten nach den WCAG 2.1 bewertet wurden. Die Bewertungen sind ebenfalls in diesem Repo zu fnden. Die Bewertung reflektiert aktuelle rechtliche Standards des Barrierefreiheitsstärkungsgesetzes[1], welches am 28.06.2025 in Kraft getreten ist und das Einhalten von Barrierefreiheitsstandards für digitale Produkte privater Unternehmen verpflichtet. Es entstammt dem EU-weiten Vorhaben, die Barrierefreiheitsregulierungen der EU-Mitgliedsstaaten zu harmonisieren und einheitliche Standards zu schaffen, die nicht nur den öffentlichen, sondern nun auch den privaten Sektor betreffen[2].
+Die in den Postern dargestellten Inhalte basieren auf einer Analyse des Frameworks [Vuetify](https://vuetifyjs.com/), in der 17 Standardkomponenten nach den WCAG 2.1 bewertet wurden. Die Bewertungen sind ebenfalls in diesem Repo zu fnden. Die Bewertung reflektiert aktuelle rechtliche Standards des [Barrierefreiheitsstärkungsgesetzes](https://bfsg-gesetz.de/), welches am 28.06.2025 in Kraft getreten ist und das Einhalten von Barrierefreiheitsstandards für digitale Produkte privater Unternehmen verpflichtet. Es entstammt dem [EU-weiten Vorhaben](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882), die Barrierefreiheitsregulierungen der EU-Mitgliedsstaaten zu harmonisieren und einheitliche Standards zu schaffen, die nicht nur den öffentlichen, sondern nun auch den privaten Sektor betreffen.
 
 Die Untersuchung zeigte, dass selbst moderne UI-Frameworks nicht automatisch barrierefreie Komponenten bereitstellen. Weitere Forschung ist notwendig, um ein umfangreiches Bild des Standes von Barrierefreiheit in verschiedenen Frameworks zu schaffen und auf das Verbessern dieser Frameworks hinzuwirken.
 
@@ -41,11 +41,5 @@ Meike Jungilligens (Studentin Medieninformatik B.Sc.)
 E-Mail: mjungilligens@gmail.com
 
 GitHub: [mjung2605](https://github.com/mjung2605)
-
-## Quellen
-
-1 [BFSG, 2021](https://bfsg-gesetz.de/)
-
-2 [EU-Richtlinie 2019/882, 2019](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882)
 
 
