@@ -27,7 +27,7 @@ Die Poster sind als Kommunikationsmaterial in Büros von Teams, die Vuetify nutz
 ### Poster-Spezifikationen
 - A3, hochkant
 - Farbraum: sRGB & CMYK (druckgeeignet)
-- Design an Material Design angelehnt 
+- Design an [Material Design](https://m3.material.io/) angelehnt 
 
 ### Erweiterungsmöglichkeiten
 - Erweiterung um weitere Problemfelder in Vuetify
